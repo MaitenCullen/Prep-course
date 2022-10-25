@@ -1,0 +1,5 @@
+Variables: las variables son nombres que le ponemos a algo que luego vamos a utilizar
+Strings: son letras o palabras, que las escribimos dentro de "".
+Funciones (argumentos, return): las funciones son "maneras de hacer algo", objetos que llaman a las variables o a valores y hacen cosas con ellos. Las funciones necesitan recibir algun dato, con ese dato hacen lo que le decimos y nos devuelven el resultado de esa accion
+Declaraciones if: el if es como decir "si tal cosa pasa", entonces decimos que "si tal cosa pasa"hacemos esto, y tenemos el else if, por si pasa algo distinto "si esta otra cosa pasa", por ultimo el else "si no paso lo anterior". podriamos decir que "si tal cosa pasa" hago algo, "si esta otra cosa pasa"hago algo distinto, y "si no paso lo anterior" hago esto ultimo.
+Valores booleanos (true, false). son valores que le damos a algun resultado. Son esas dos opciones, "verdadero" o "falso". 
